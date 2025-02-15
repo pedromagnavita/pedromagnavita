@@ -4,7 +4,6 @@
 <img align='right' src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Quotes" width="auto" height="auto">
 
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
 
 Hello! I'm Pedro, a Computer Engineering student at Universidade Federal de Santa Catarina (UFSC). This is where I share my projects and code, reflecting my academic path and interests in the world of computing.
@@ -28,4 +27,4 @@ I'm always seeking new challenges that help me grow and push my boundaries. Prog
 
 
 ## Contact me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromagnavita/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patmagnavita@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedromagnavita/pedromagnavita)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromagnavita/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patmagnavita@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedromagnavita)  
