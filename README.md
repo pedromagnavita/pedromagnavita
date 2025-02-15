@@ -1,16 +1,32 @@
-## Hi there 👋
+![Hi! I’m Pedro (1)](https://github.com/user-attachments/assets/7d16602a-d98f-4d06-90a6-1aed7a3dac46)
 
-<!--
-**pedromagnavita/pedromagnavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quotes" width="auto" height="auto">
 
-Here are some ideas to get you started:
+<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Pedro, a Computer Engineering student at Universidade Federal de Santa Catarina (UFSC). This is where I share my projects and code, reflecting my academic path and interests in the world of computing.
+
+I'm always seeking new challenges that help me grow and push my boundaries. Programming isn't just about writing lines of code—it's a means of solving problems creatively and efficiently. Expect a diverse range of projects and ideas here.
+
+<br>
+
+## About me  
+<br>🎓 Computer Engineering student at UFSC  
+<br>🚀 Passionate about solving complex problems through technology  
+<br>💻 Exploring multiple programming languages and tech tools  
+<br>🌐 Focused on continuous learning and improvement
+
+<br>
+
+## Main Areas of Interest  
+<br>🧠 Computer Vision and OpenCV  
+<br>🖥 Software Development  
+<br>🌐 Web Development  
+<br>📱 Automation and Data Science
+
+<br>
+
+## Contact me:  
+- [LinkedIn](https://www.linkedin.com/in/pedromagnavita/)  
+- [GitHub](https://github.com/pedromagnavita/pedromagnavita)  
