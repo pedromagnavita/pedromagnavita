@@ -1,4 +1,4 @@
-![Hi! I’m Pedro (1)](https://github.com/user-attachments/assets/7d16602a-d98f-4d06-90a6-1aed7a3dac46)
+
 
 
 <img align='right' src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Quotes" width="auto" height="auto">
